@@ -41,7 +41,7 @@
 
 
         <ImageView
-            android:id="@+id/image_leftDice"
+            android:id="@+id/imageleftDice"
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -51,7 +51,7 @@
             app:srcCompat="@drawable/dice1"/>
 
         <ImageView
-            android:id="@+id/image_rightDice"
+            android:id="@+id/imagerightDice"
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -67,7 +67,7 @@
         android:layout_height="150dp">
 
         <Button
-            android:id="@+id/rollButton"
+            android:id="@+id/rollbutton"
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
